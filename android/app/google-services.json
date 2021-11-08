@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154106010566",
+    "project_id": "bookstore-fcd22",
+    "storage_bucket": "bookstore-fcd22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154106010566:android:b53495a1ddc0a200a170c7",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154106010566-n756ntppv0pu8riod8f5itu45bj5vqve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90jCXJ-NBqrMQm79wcFZxIO-M2qt4TCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154106010566-n756ntppv0pu8riod8f5itu45bj5vqve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
